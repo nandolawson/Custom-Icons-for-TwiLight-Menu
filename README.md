@@ -1,8 +1,8 @@
 <p align="center">
 	<a href="https://github.com/nandolawson/Custom-Icons-for-TwiLight-Menu/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/nandolawson/Custom-Icons-for-TwiLight-Menu?label=License&logo=License"></a>
- 	<a href="https://github.com/nandolawson/Custom-Icons-for-TwiLight-Menu-Test/issues?q=is%3Arequest"><img alt="Requests" src="https://img.shields.io/github/issues/nandolawson/Custom-Icons-for-TwiLight-Menu/request?label=Requests"></a>
-	<a href="https://github.com/nandolawson/Custom-Icons-for-TwiLight-Menu-Test/issues?q=is%3Aenhancement"><img alt="Enhancements" src="https://img.shields.io/github/issues/nandolawson/Custom-Icons-for-TwiLight-Menu/enhancement?label=Enhancements"></a>
-	<a href="https://github.com/nandolawson/Custom-Icons-for-TwiLight-Menu-Test/issues?q=is%3Abug"><img alt="Bugs" src="https://img.shields.io/github/issues/nandolawson/Custom-Icons-for-TwiLight-Menu/bug?label=Bugs"></a>
+ 	<a href="https://github.com/nandolawson/Custom-Icons-for-TwiLight-Menu/issues?q=is%3Arequest"><img alt="Requests" src="https://img.shields.io/github/issues/nandolawson/Custom-Icons-for-TwiLight-Menu/request?label=Requests"></a>
+	<a href="https://github.com/nandolawson/Custom-Icons-for-TwiLight-Menu/issues?q=is%3Aenhancement"><img alt="Enhancements" src="https://img.shields.io/github/issues/nandolawson/Custom-Icons-for-TwiLight-Menu/enhancement?label=Enhancements"></a>
+	<a href="https://github.com/nandolawson/Custom-Icons-for-TwiLight-Menu/issues?q=is%3Abug"><img alt="Bugs" src="https://img.shields.io/github/issues/nandolawson/Custom-Icons-for-TwiLight-Menu/bug?label=Bugs"></a>
 </p>
 <h1 align="center">Custom Icons for TwiLight Menu++</h3><p align="center">A project to make emulated games more appealing on the home screen</p>
 
