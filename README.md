@@ -23,4 +23,4 @@ If you would like to have an icon for a game or anything looks weird, feel free 
 
 
 ## License
-Distributed under the Creative Commons Zero v1.0 Universal. See [LICENSE.md](https://github.com/nandolawson/Custom-Icons-for-TwiLight-Menu/LICENSE) for more information.
+Distributed under the Creative Commons Zero v1.0 Universal. See [LICENSE](https://github.com/nandolawson/Custom-Icons-for-TwiLight-Menu/LICENSE) for more information.
