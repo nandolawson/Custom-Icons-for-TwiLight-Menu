@@ -10,7 +10,7 @@
 This repository contains custom icons for emulated games used with [TwiLightMenu++](https://github.com/DS-Homebrew/TWiLightMenu). The goal is to create custom icons for as many titles as possible to improve the user experience.
 
 ## Usage
-Just download the icons you want ([or all of them](https://github.com/nandolawson/Custom-Icons-for-TwiLight-Menu/archive/refs/heads/main.zip)) and copy them to your SD card to the path `sd:/_nds/TWiLightMenu/extras`. It is important that the icon has exactly the same name as the corresponding game plus the file extension `.png`. For example, the icon for `example.nes` should be named `example.nes.png`.
+Just download the icons you want ([or all of them](https://github.com/nandolawson/Custom-Icons-for-TwiLight-Menu/archive/refs/heads/main.zip)) and copy them to your SD card to the path `sd:/_nds/TWiLightMenu/icons`. It is important that the icon has exactly the same name as the corresponding game plus the file extension `.png`. For example, the icon for `example.nes` should be named `example.nes.png`.
 
 ## Contributing
 Anyone who would like to contribute to this repository is very welcome to do so. There are only three requirements:
